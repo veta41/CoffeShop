@@ -1,0 +1,124 @@
+{
+  "coffes": [
+    {
+      "id": 0,
+      "imageUrl": "https://coffee.town/files/resized/products/1_53.800x550.png",
+      "name": "КОЛУМБИЯ СУПРЕМО УИЛА",
+      "types": [0, 1],
+      "sizes": [250, 1000],
+      "price": 100,
+      "category": 0,
+      "rating": 4
+    },
+    {
+      "id": 1,
+      "imageUrl": "https://coffee.town/files/resized/products/1_45.800x550.png",
+      "name": "АРАБИКА ВОСТОЧНЫЙ ТИМОР",
+      "types": [0],
+      "sizes": [250, 1000],
+      "price": 105,
+      "category": 0,
+      "rating": 6
+    },
+    {
+      "id": 2,
+      "imageUrl": "https://coffee.town/files/resized/products/1_52.800x550.png",
+      "name": "АРАБИКА ПЕРУ ОРГАНИК",
+      "types": [0],
+      "sizes": [250, 1000],
+      "price": 100,
+      "category": 0,
+      "rating": 4
+    },
+    {
+      "id": 3,
+      "imageUrl": "https://coffee.town/files/resized/products/1_59.800x550.png",
+      "name": "АРАБИКА БРАЗИЛИЯ САНТОС ",
+      "types": [1],
+      "sizes": [250, 1000],
+      "price": 80,
+      "category": 0,
+      "rating": 2
+    },
+    {
+      "id": 4,
+      "imageUrl": "https://coffee.town/files/resized/products/1_22.800x550.png",
+      "name": "АРАБИКА ЭФИОПИЯ",
+      "types": [0, 1],
+      "sizes": [250, 1000],
+      "price": 100,
+      "category": 0,
+      "rating": 8
+    },
+    {
+      "id": 5,
+      "imageUrl": "https://coffee.town/files/resized/products/1_55.800x550.png",
+      "name": "КОЛУМБИЯ ЭКСЕЛЬСО",
+      "types": [0],
+      "sizes": [250, 1000],
+      "price": 90,
+      "category": 0,
+      "rating": 2
+    },
+    {
+      "id": 6,
+      "imageUrl": "https://coffee.town/files/resized/products/1_70.800x550.png",
+      "name": "РОБУСТА ВЬЕТНАМ ",
+      "types": [0, 1, 3],
+      "sizes": [1000],
+      "price": 180,
+      "category": 1,
+      "rating": 9
+    },
+    {
+      "id": 7,
+      "imageUrl": "https://coffee.town/files/resized/products/1_64.800x550.png",
+      "name": "РОБУСТА ИНДИЯ ПАЧМЕНТ AB",
+      "types": [0, 1, 3],
+      "sizes": [1000],
+      "price": 240,
+      "category": 1,
+      "rating": 10
+    },
+    {
+      "id": 8,
+      "imageUrl": "https://coffee.town/files/resized/products/1_69.800x550.png",
+      "name": "РОБУСТА ИНДИЯ ЧЕРРИ ААА",
+      "types": [0, 1, 3],
+      "sizes": [250, 1000],
+      "price": 280,
+      "category": 1,
+      "rating": 10
+    },
+    {
+      "id": 9,
+      "imageUrl": "https://coffee.town/files/resized/products/1_61-1.800x550.jpg",
+      "name": "Экспрессо  ",
+      "types": [0, 1, 2],
+      "sizes": [250, 1000],
+      "price": 70,
+      "category": 2,
+      "rating": 2
+    },
+    {
+      "id": 10,
+      "imageUrl": "https://coffee.town/files/resized/products/1_25.800x550.png",
+      "name": "ГОНДУРАС МАРАГОДЖИП",
+      "types": [0, 1, 2],
+      "sizes": [250, 1000],
+      "price": 165,
+      "category": 3,
+      "rating": 2
+    },
+    {
+      "id": 11,
+      "imageUrl": "https://coffee.town/files/resized/products/1_27.800x550.png",
+      "name": "НИКАРАГУА МАРАГОДЖИП ",
+      "types": [0, 1, 2],
+      "sizes": [250, 1000],
+      "price": 165,
+      "category": 3,
+      "rating": 2
+    }
+  ]
+}
