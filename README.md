@@ -2,10 +2,16 @@
 
 Stack:
 
--ReactJS + хуки;
--React Router;
--Redux;
--Redux thunk;
--Json-server;
--Axios;
+-ReactJS + хуки,
+
+-React Router,
+
+-Redux,
+
+-Redux thunk,
+
+-Json-server,
+
+-Axios,
+
 -Classnames.
